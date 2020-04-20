@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "test_3d_touch",
+			"path": "..\\..\\..\\Documents\\PlatformIO\\Projects\\test_3d_touch"
 		}
 	],
 	"settings": {}
